@@ -175,7 +175,7 @@ return array(
 		'Seeder'          => 'Illuminate\Database\Seeder',
 		'Session'         => 'Illuminate\Support\Facades\Session',
 		'Str'             => 'Illuminate\Support\Str',
-		'URL'             => 'Illuminate\Support\Facades\URL',
+		'URL'             => 'http://localhost:80/Laravel/public',
 		'Validator'       => 'Illuminate\Support\Facades\Validator',
 		'View'            => 'Illuminate\Support\Facades\View',
 
